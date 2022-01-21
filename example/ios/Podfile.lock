@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - twiliochat (0.0.1):
+    - Flutter
+    - TwilioChatClient (~> 5.0.1)
+  - TwilioChatClient (5.0.1)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - twiliochat (from `.symlinks/plugins/twiliochat/ios`)
+
+SPEC REPOS:
+  trunk:
+    - TwilioChatClient
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  twiliochat:
+    :path: ".symlinks/plugins/twiliochat/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  twiliochat: ee9d2c2835a2868c3b5b8bdaddd784527e9f1f42
+  TwilioChatClient: 2a915858c972075108da2fd5fc382f237b1490cc
+
+PODFILE CHECKSUM: 4e8f8b2be68aeea4c0d5beb6ff1e79fface1d048
+
+COCOAPODS: 1.11.2
